@@ -18,7 +18,7 @@ This project allows two players to play Tic Tac Toe on a 3x3 board with a graphi
 
 ## 🖼️ Screenshot
 
-![Tic Tac Toe Screenshot](screenshot.png)
+![Tic Tac Toe Screenshot](src/screenshot.png)
 
 
 ## 🧰 Tech Stack

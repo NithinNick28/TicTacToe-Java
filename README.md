@@ -18,11 +18,8 @@ This project allows two players to play Tic Tac Toe on a 3x3 board with a graphi
 
 ## 🖼️ Screenshot
 
-![Tic Tac Toe Screenshot](https://via.placeholder.com/600x350.png?text=Tic+Tac+Toe+Java+GUI)
+![Tic Tac Toe Screenshot](screenshot.png)
 
-> Replace the image above with a real screenshot after uploading one to GitHub.
-
----
 
 ## 🧰 Tech Stack
 

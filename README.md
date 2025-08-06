@@ -7,11 +7,11 @@ This project allows two players to play Tic Tac Toe on a 3x3 board with a graphi
 
 ## 📌 Features
 
-- 🎯 2-player mode
-- ✅ Winner detection (horizontal, vertical, diagonal)
-- 🔁 Restart game option
-- 🎨 Simple and clean GUI
-- 📋 Tie detection
+- 🎯 2-player mode  
+- ✅ Winner detection (horizontal, vertical, diagonal)  
+- 🔁 Restart game option  
+- 🎨 Simple and clean GUI  
+- 📋 Tie detection  
 - 💡 Responsive turn indicator
 
 ---
@@ -20,6 +20,7 @@ This project allows two players to play Tic Tac Toe on a 3x3 board with a graphi
 
 ![Tic Tac Toe Screenshot](src/screenshot.png)
 
+---
 
 ## 🧰 Tech Stack
 
@@ -36,8 +37,18 @@ This project allows two players to play Tic Tac Toe on a 3x3 board with a graphi
 - A code editor (e.g. IntelliJ IDEA, Eclipse, VS Code)
 
 ### 🏃 Steps:
-1. Clone the repository:
+
+#### 📦 Clone and Run Using Terminal (CMD)
 
 ```bash
+# 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/TicTacToe-Java.git
-cd TicTacToe-Java
+
+# 2. Navigate into the project directory
+cd TicTacToe-Java/src
+
+# 3. Compile all Java files
+javac *.java
+
+# 4. Run the App class
+java App
